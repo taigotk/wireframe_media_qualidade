@@ -1,6 +1,6 @@
 
 <h1>
-    <img src="image/pagina_para_redesign.png">
+    <img src="image/wireframe-01.png">
 </h1>
 
 <h3 align="center">
