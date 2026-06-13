@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-    <a href="[https://rocketmusics.herokuapp.com/](https://www.figma.com/design/GNhz3Y3cGn3lmyEUwrwDlV/Wireframe-de-M%C3%A9dia-Fidelidade?node-id=0-1&m=dev&t=HikvegVz91rzpQny-1)"><iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/GNhz3Y3cGn3lmyEUwrwDlV/Wireframe-de-M%C3%A9dia-Fidelidade?node-id=0-1&embed-host=share" allowfullscreen></iframe></a>
+    <a href="[https://www.figma.com/design/GNhz3Y3cGn3lmyEUwrwDlV/Wireframe-de-M%C3%A9dia-Fidelidade?node-id=0-1&m=dev&t=HikvegVz91rzpQny-1]">Acessar Wireframe</a>
 <h3 >
 
 # Indice
