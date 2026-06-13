@@ -26,4 +26,4 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 ---
 
-Desenvolvido por Taigo Amazonas
+Desenvolvido por Taigo Amazonas - Criação de um projeto de Wireframe de Média Fidelidade para o 1º desafio da formação UX Desinger DIO
