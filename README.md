@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-    <a href="(https://www.figma.com/design/GNhz3Y3cGn3lmyEUwrwDlV/Wireframe-de-M%C3%A9dia-Fidelidade?node-id=0-1&m=dev&t=HikvegVz91rzpQny-1)">Acessar Wireframe</a>
+     <a href="https://www.figma.com/design/GNhz3Y3cGn3lmyEUwrwDlV/Wireframe-de-M%C3%A9dia-Fidelidade?node-id=0-1&m=dev&t=HikvegVz91rzpQny-1">Acessar a demonstração</a>
 <h3 >
 
 # Indice
