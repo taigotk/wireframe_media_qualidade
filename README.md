@@ -26,7 +26,4 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 ---
 
-
----
-
 Desenvolvido por Taigo Amazonas
